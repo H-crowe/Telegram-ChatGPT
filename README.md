@@ -61,10 +61,6 @@ A simple powerful Telegram bot that engages users in interactive conversations u
 
 Feel free to customize the bot by adding features, improving conversation handling, or enhancing error messages. The code is designed to be extensible and adaptable to your specific needs.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, feature requests, or bug reports, please create an issue or submit a pull request. Check the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
-
 ---
 
 Contact
